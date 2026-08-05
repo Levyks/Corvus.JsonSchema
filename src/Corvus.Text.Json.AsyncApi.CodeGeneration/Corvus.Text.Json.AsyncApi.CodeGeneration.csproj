@@ -11,6 +11,7 @@
     <EndjinDisableCreateEditorConfig>true</EndjinDisableCreateEditorConfig>
     <EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
     <IsPackable>true</IsPackable>
+    <PackageId>Levyks.Corvus.Text.Json.AsyncApi.CodeGeneration</PackageId>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Description>Code generation engine for AsyncAPI specifications. Walks AsyncAPI 2.6 and 3.0 typed models to emit producer, consumer, and message types.</Description>
   </PropertyGroup>

@@ -12,6 +12,7 @@
     <EnableDefaultEmbeddedResourceItems>false</EnableDefaultEmbeddedResourceItems>
     <EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
     <IsPackable>true</IsPackable>
+    <PackageId>Levyks.Corvus.Text.Json.AsyncApi</PackageId>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Description>Runtime support types for generated AsyncAPI producers and consumers. Provides IMessageTransport, ValidationMode, ThrowHelper, and message matching delegates.</Description>
   </PropertyGroup>

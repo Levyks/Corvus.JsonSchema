@@ -13,6 +13,7 @@
     <EndjinDisableCreateEditorConfig>true</EndjinDisableCreateEditorConfig>
     <EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
     <IsPackable>true</IsPackable>
+    <PackageId>Levyks.Corvus.Text.Json.AsyncApi26</PackageId>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Description>Strongly-typed V5 model types for AsyncAPI 2.6 specifications, generated from the official AsyncAPI 2.6 JSON Schema metaschema using the Corvus.Text.Json source generator.</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
